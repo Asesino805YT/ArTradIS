@@ -1,0 +1,20 @@
+{
+  "rsi_adv": {
+    "total_trades": 4,
+    "gross_pnl": -9.903997,
+    "total_commission": 3.900997,
+    "net_pnl": -13.804994,
+    "wins": 0,
+    "winrate": 0.0,
+    "max_drawdown": 10.339436000000001
+  },
+  "__aggregate__": {
+    "total_trades": 4,
+    "gross_pnl": -9.903997,
+    "total_commission": 3.900997,
+    "net_pnl": -13.804994,
+    "wins": 0,
+    "winrate": 0.0,
+    "max_drawdown": 10.339436000000001
+  }
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "period": 5,
+    "total_trades": 4,
+    "net_pnl": -13.804994,
+    "winrate": 0.0
+  },
+  {
+    "period": 7,
+    "total_trades": 4,
+    "net_pnl": -13.804994,
+    "winrate": 0.0
+  },
+  {
+    "period": 10,
+    "total_trades": 4,
+    "net_pnl": -13.804994,
+    "winrate": 0.0
+  },
+  {
+    "period": 14,
+    "total_trades": 4,
+    "net_pnl": -13.804994,
+    "winrate": 0.0
+  },
+  {
+    "period": 21,
+    "total_trades": 4,
+    "net_pnl": -13.804994,
+    "winrate": 0.0
+  }
+]

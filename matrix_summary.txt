@@ -1,0 +1,3 @@
+rsi7_min2: {'trades': 0, 'wins': 0, 'pnl': 0.0}
+rsi7_min1: {'trades': 0, 'wins': 0, 'pnl': 0.0}
+rsi14_min1: {'trades': 0, 'wins': 0, 'pnl': 0.0}

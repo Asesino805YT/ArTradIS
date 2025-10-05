@@ -1,0 +1,39 @@
+RSI shim instrumented report
+
+RSI period: 7 history: 200
+Index 61 decision=None conf15=ok conf1h=ok
+  - used talib
+  - r2=25.3849 r1=21.6383 r0=37.3153
+  - bias=bear price1h=1001.639998 ema200_last=nan
+  - buy_condition_met_but_bias_failed
+
+Index 104 decision=None conf15=ok conf1h=ok
+  - used talib
+  - r2=25.5408 r1=20.9596 r0=25.1218
+  - bias=bear price1h=1001.639998 ema200_last=nan
+  - no_reversal_detected
+
+Index 323 decision=None conf15=ok conf1h=ok
+  - used talib
+  - r2=25.9649 r1=31.6385 r0=41.1039
+  - bias=bear price1h=1000.330015 ema200_last=nan
+  - no_reversal_detected
+
+Index 349 decision=None conf15=ok conf1h=ok
+  - used talib
+  - r2=24.9435 r1=31.2283 r0=51.7290
+  - bias=bear price1h=1000.330015 ema200_last=nan
+  - no_reversal_detected
+
+Index 385 decision=sell conf15=ok conf1h=ok
+  - used talib
+  - r2=79.5590 r1=73.6463 r0=59.9069
+  - bias=bear price1h=999.965510 ema200_last=nan
+  - sell_condition_met
+
+Index 405 decision=None conf15=ok conf1h=ok
+  - used talib
+  - r2=60.4888 r1=57.2376 r0=43.3447
+  - bias=bear price1h=999.965510 ema200_last=nan
+  - no_reversal_detected
+

@@ -1,0 +1,47 @@
+{
+  "macd_adv": {
+    "total_trades": 32,
+    "gross_pnl": -101.70159399999999,
+    "total_commission": 31.52431,
+    "net_pnl": -133.22590399999999,
+    "wins": 5,
+    "winrate": 0.15625,
+    "max_drawdown": 127.30649300000003
+  },
+  "range": {
+    "total_trades": 303,
+    "gross_pnl": -1088.6679299999998,
+    "total_commission": 298.46873300000004,
+    "net_pnl": -1387.1366629999998,
+    "wins": 29,
+    "winrate": 0.09570957095709572,
+    "max_drawdown": 1383.6384350000005
+  },
+  "rsi_adv": {
+    "total_trades": 4,
+    "gross_pnl": -9.903997,
+    "total_commission": 3.900997,
+    "net_pnl": -13.804994,
+    "wins": 0,
+    "winrate": 0.0,
+    "max_drawdown": 10.339436000000001
+  },
+  "scalp": {
+    "total_trades": 260,
+    "gross_pnl": -898.9677360000001,
+    "total_commission": 256.09381999999994,
+    "net_pnl": -1155.061556,
+    "wins": 32,
+    "winrate": 0.12307692307692308,
+    "max_drawdown": 1149.287059000001
+  },
+  "__aggregate__": {
+    "total_trades": 599,
+    "gross_pnl": -2099.2412569999997,
+    "total_commission": 589.98786,
+    "net_pnl": -2689.229117,
+    "wins": 66,
+    "winrate": 0.11018363939899833,
+    "max_drawdown": 2683.2335910000006
+  }
+}

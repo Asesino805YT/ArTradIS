@@ -1,0 +1,197 @@
+Hotspot replay report
+
+RSI period: 7
+Total candidates: 38 selected: 12
+
+=== Candidate index 120 type=buy conf15=ok conf1h=ok ===
+Strategy results:
+trend: None
+range: None
+scalp: buy
+trend_adv: None
+range_adv: None
+scalp_adv: None
+mtf_adv: None
+mtf: None
+ma_adv: None
+bb_adv: None
+rsi_adv: None
+macd_adv: None
+Aggregator: buy conf=1.00 confirmers=['scalp']
+
+=== Candidate index 360 type=sell conf15=ok conf1h=ok ===
+Strategy results:
+trend: buy
+range: None
+scalp: sell
+trend_adv: None
+range_adv: None
+scalp_adv: None
+mtf_adv: None
+mtf: None
+ma_adv: None
+bb_adv: None
+rsi_adv: None
+macd_adv: None
+Aggregator: None conf=0.00 confirmers=['trend', 'scalp']
+
+=== Candidate index 385 type=sell conf15=ok conf1h=ok ===
+Strategy results:
+trend: buy
+range: None
+scalp: sell
+trend_adv: None
+range_adv: None
+scalp_adv: None
+mtf_adv: None
+mtf: None
+ma_adv: None
+bb_adv: None
+rsi_adv: None
+macd_adv: None
+Aggregator: None conf=0.00 confirmers=['trend', 'scalp']
+
+=== Candidate index 403 type=sell conf15=ok conf1h=ok ===
+Strategy results:
+trend: buy
+range: None
+scalp: None
+trend_adv: None
+range_adv: None
+scalp_adv: None
+mtf_adv: None
+mtf: None
+ma_adv: None
+bb_adv: None
+rsi_adv: None
+macd_adv: None
+Aggregator: buy conf=1.00 confirmers=['trend']
+
+=== Candidate index 417 type=sell conf15=ok conf1h=ok ===
+Strategy results:
+trend: buy
+range: None
+scalp: None
+trend_adv: None
+range_adv: None
+scalp_adv: None
+mtf_adv: None
+mtf: None
+ma_adv: None
+bb_adv: None
+rsi_adv: None
+macd_adv: None
+Aggregator: buy conf=1.00 confirmers=['trend']
+
+=== Candidate index 39 type=buy conf15=ok conf1h=fail ===
+Strategy results:
+trend: None
+range: sell
+scalp: buy
+trend_adv: None
+range_adv: None
+scalp_adv: None
+mtf_adv: None
+mtf: None
+ma_adv: None
+bb_adv: None
+rsi_adv: None
+macd_adv: None
+Aggregator: None conf=0.00 confirmers=['range', 'scalp']
+
+=== Candidate index 65 type=buy conf15=fail conf1h=ok ===
+Strategy results:
+trend: None
+range: None
+scalp: None
+trend_adv: None
+range_adv: None
+scalp_adv: None
+mtf_adv: None
+mtf: None
+ma_adv: None
+bb_adv: None
+rsi_adv: None
+macd_adv: None
+Aggregator: None conf=0.00 confirmers=[]
+
+=== Candidate index 75 type=sell conf15=ok conf1h=fail ===
+Strategy results:
+trend: None
+range: None
+scalp: None
+trend_adv: None
+range_adv: None
+scalp_adv: None
+mtf_adv: None
+mtf: None
+ma_adv: None
+bb_adv: None
+rsi_adv: None
+macd_adv: None
+Aggregator: None conf=0.00 confirmers=[]
+
+=== Candidate index 95 type=buy conf15=fail conf1h=ok ===
+Strategy results:
+trend: None
+range: None
+scalp: None
+trend_adv: None
+range_adv: None
+scalp_adv: None
+mtf_adv: None
+mtf: None
+ma_adv: None
+bb_adv: None
+rsi_adv: buy
+macd_adv: None
+Aggregator: buy conf=1.00 confirmers=['rsi_adv']
+
+=== Candidate index 108 type=buy conf15=fail conf1h=ok ===
+Strategy results:
+trend: None
+range: None
+scalp: None
+trend_adv: None
+range_adv: None
+scalp_adv: None
+mtf_adv: None
+mtf: None
+ma_adv: None
+bb_adv: None
+rsi_adv: buy
+macd_adv: None
+Aggregator: buy conf=1.00 confirmers=['rsi_adv']
+
+=== Candidate index 113 type=sell conf15=ok conf1h=fail ===
+Strategy results:
+trend: None
+range: None
+scalp: None
+trend_adv: None
+range_adv: None
+scalp_adv: None
+mtf_adv: None
+mtf: None
+ma_adv: None
+bb_adv: None
+rsi_adv: None
+macd_adv: sell
+Aggregator: sell conf=1.00 confirmers=['macd_adv']
+
+=== Candidate index 120 type=buy conf15=ok conf1h=ok ===
+Strategy results:
+trend: None
+range: None
+scalp: buy
+trend_adv: None
+range_adv: None
+scalp_adv: None
+mtf_adv: None
+mtf: None
+ma_adv: None
+bb_adv: None
+rsi_adv: None
+macd_adv: None
+Aggregator: buy conf=1.00 confirmers=['scalp']
+

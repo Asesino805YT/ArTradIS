@@ -1,0 +1,12 @@
+{
+  "symbol": "R_100",
+  "timeframes": ["1m", "5m", "1h"],
+  "atr_multiplier_sl": 1.5,
+  "atr_multiplier_tp": 3.0,
+  "risk_per_trade_pct": 1.0,
+  "max_trades_per_day": 10,
+  "dry_run": true,
+  "api_token": "PUT_YOUR_DERIV_API_TOKEN_HERE",
+  "account_currency": "USD",
+  "history_size": 500
+}

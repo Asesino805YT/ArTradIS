@@ -1,0 +1,15 @@
+pandas
+numpy
+websocket-client
+# Optional but recommended for faster/accurate indicators
+ta
+# TA-Lib binary often needs platform wheel or build: optional
+TA-Lib
+pandas>=1.5
+# Para Python 3.11+ necesitamos numpy >= 1.24
+numpy>=1.24
+# 'ta' es la librería pure-Python para indicadores técnicos
+ta>=0.11.0
+
+# Nota: la librería cliente de Deriv no siempre está disponible en PyPI
+# Instálala separadamente (ver README) o usa el cliente oficial desde GitHub.

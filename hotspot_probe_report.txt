@@ -1,0 +1,17 @@
+Hotspot RSI proxy probe report
+
+RSI period: 7
+Total candidates parsed: 6
+
+Index 61: proxy=None rsi_strategy=None conf15=ok conf1h=ok
+  diag: r2=34.06477178204106 r1=26.24808004397576 r0=32.36999021188238 bias=bear
+Index 104: proxy=None rsi_strategy=None conf15=ok conf1h=ok
+  diag: r2=21.10674880654875 r1=21.603426108064824 r0=9.34689353249668 bias=bear
+Index 323: proxy=None rsi_strategy=None conf15=ok conf1h=ok
+  diag: r2=31.667601355085694 r1=37.67837826111342 r0=50.3415918210432 bias=bear
+Index 349: proxy=None rsi_strategy=None conf15=ok conf1h=ok
+  diag: r2=23.22693696098294 r1=34.245599754828135 r0=67.09834058031466 bias=bear
+Index 385: proxy=sell rsi_strategy=None conf15=ok conf1h=ok
+  diag: r2=94.33717675587498 r1=87.29940566046574 r0=69.1944242388076 bias=bear
+Index 405: proxy=None rsi_strategy=None conf15=ok conf1h=ok
+  diag: r2=63.62529793022396 r1=59.955189611811264 r0=43.879131040329206 bias=bear
